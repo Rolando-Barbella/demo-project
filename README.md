@@ -2,7 +2,7 @@
 
 Proyecto "dummy" para poner en practica trucos que nos ayudan a desenvolvernos más rápido con nuestro editor de texto.
 
-En esta seccion aprenderas sobre
+En esta seccion aprenderas acerca:
 
 - Busqueda de archivos
 - Busqueda y reemplazo de código
